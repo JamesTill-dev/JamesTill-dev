@@ -62,5 +62,5 @@ I hold a B.S. in Information Systems and document my work publicly where I can.
 
 ## Contact
 
-- GitHub: [@JamesTilldev](https://github.com/JamesTill-dev)
+- GitHub: [@JamesTill-dev](https://github.com/JamesTill-dev)
 - LinkedIn: [linkedin.com/in/james-till-7a25b81b5](https://www.linkedin.com/in/james-till-7a25b81b5/)
